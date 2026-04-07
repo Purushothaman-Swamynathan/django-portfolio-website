@@ -48,11 +48,6 @@ The website includes authentication system, dynamic project management, and data
 
 <img width="2528" height="1160" alt="image" src="https://github.com/user-attachments/assets/5fa2d479-9b55-4186-b72a-a328031f26ab" />
 
-
-🌐 Live Demo
-
-(If deployed on PythonAnywhere / Render / Railway — add link)
-
 👨‍💻 Author
 
 Purushothaman S
